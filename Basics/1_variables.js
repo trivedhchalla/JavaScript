@@ -1,6 +1,7 @@
 const accNum = 141232132
 // declaration of variables 
-let name = "Trivedh"
+// javascript is dynamically typed language
+let name = "Sitare"
 var accountEmail = "neuralNetworks@gmail.com"
 accCity = "Jaipur"
 let accountState;

@@ -7,15 +7,15 @@
 let name = "Hitesh" // String  
 let age = 10 // number 
 let isLoggedIn = false // boolean 
-let state;
-let dead = null
+let state;//undefined
+let dead = null 
 
 // ==> Primitive 
 // number => 2^53 
 // bigint 
 // string - ""
 // boolean - false / true
-// stand alone value - null --> empty value and its a object     
+// stand alone value -- null --> empty value and its a object     
 // undefined --> not initialized 
 // symbol --> for checking of uniqueness 
 
