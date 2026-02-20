@@ -6,7 +6,7 @@
 
 // console.log(typeof value)
 
-// // ==> Take care of Number() will convert but store as NaN
+// // ==> Take care of Number() will throw error but store as NaN
 // let marks = "33abc"
 
 // value = Number(marks)
