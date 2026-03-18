@@ -8,7 +8,7 @@ let name = "Hitesh" // String
 let age = 10 // number 
 let isLoggedIn = false // boolean 
 let state;//undefined
-let dead = null 
+let dead = null // nothing is placed 
 
 // ==> Primitive 
 // number => 2^53 
@@ -21,5 +21,5 @@ let dead = null
 
 // =>object
 console.log(typeof state)//undefined
-
-console.log(typeof dead)// object
+// type of for a null 
+console.log(typeof dead)// object 

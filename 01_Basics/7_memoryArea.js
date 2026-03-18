@@ -7,11 +7,11 @@ let realAge = age
 
 console.table([age,realAge])
 
-realAge = 19
+age = 19
 
 console.table([age,realAge])
 
-// since realAge got new copy of age the age didnot got changed only the realAge is changed
+// age got change but the realAge is not since a copy of age is passed to it not exact value
 
 // ii)Heap: refernce datatyes 
 

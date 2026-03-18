@@ -22,7 +22,7 @@ console.log("Val: ",val)
 
 let value = count++//101
 
-console.log("value: ",value)
+console.log("Post increment one value: ",value)
 
 console.log(count)
 

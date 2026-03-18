@@ -16,8 +16,9 @@ accCity = "Bengaluru"
 console.table([accNum,name,accountEmail,accCity,accountState])
 
 /*
-let is prefered over var 
-because let is scope based and var is independent of scope 
+let is prefered over var because let is scope based and var is independent of scope 
 
-if we donot initialize a value then its indefined 
+let is alive within this {}
+
+if we donot initialize a value then its undefined 
 */

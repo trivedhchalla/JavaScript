@@ -12,7 +12,7 @@ const gameName = new String('Hello world')// stored as a key : value pairs
 
 // console.log(gameName[0])
 
-// console.log(gameName__proto__) // returns the object attributes and methods
+// console.log(gameName.__proto__) // returns the object attributes and methods
 
 // console.log(gameName.length)
 
@@ -22,11 +22,11 @@ const gameName = new String('Hello world')// stored as a key : value pairs
 
 // console.log(gameName.indexOf('e'))
 
-// const subStr = gameName.substring(1,6)
+const subStr = gameName.substring(1,6)
 
 // console.log(subStr)
 
-// slicing that same as python negtive indexing possible 
+// slicing is same as python negtive indexing possible 
 // const anotherSub = gameName.slice(-5,-1)
 
 // console.log(anotherSub)

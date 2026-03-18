@@ -1,7 +1,7 @@
 // =>Datatypes are two types : on basis of how they are stored and used from the memory
 
 // i)Primitive : when we use call them a new copy is returned 
-//      7 types: String Number Boolean null Symbol bigInt 
+//      7 types: String Number Boolean null Symbol bigInt Undefined
 
 // const id = Symbol('123')
 
@@ -14,6 +14,7 @@
 
 // Dynamically typed language 
 
+// array
 // const heros = ["Love Babbar","chai aur code","code with harry"]
 
 // let myObj = {

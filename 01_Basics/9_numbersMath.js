@@ -27,7 +27,7 @@
 
 // console.log(hundreds.toLocaleString('en-IN'))
 
-// Maths
+// Math module inbuilt one 
 
 console.log(Math.PI)
 
