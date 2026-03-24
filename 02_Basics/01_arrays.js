@@ -1,5 +1,5 @@
 // arrays => collection of different items with a single name 
-// dynamic and mixed
+// dynamic and mix of datatypes 
 // array create a shallow copy(reference of obj is shared)
 // deep copy => completely new object the content inside is same and the refernce of memory is diff 
 

@@ -17,6 +17,7 @@
 // array
 // const heros = ["Love Babbar","chai aur code","code with harry"]
 
+// object
 // let myObj = {
 //     name : "Hello WOrld!",
 //     birth: "JavaScript",

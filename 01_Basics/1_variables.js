@@ -16,6 +16,8 @@ accCity = "Bengaluru"
 console.table([accNum,name,accountEmail,accCity,accountState])
 
 /*
+const, let , var
+
 let is prefered over var because let is scope based and var is independent of scope 
 
 let is alive within this {}

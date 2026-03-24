@@ -26,4 +26,8 @@ console.log("Post increment one value: ",value)
 
 console.log(count)
 
-
+/*
+Arithmetic 
+Number + String = String
+Increment/decrement
+*/

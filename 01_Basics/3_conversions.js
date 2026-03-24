@@ -14,7 +14,7 @@
 // console.log(typeof value)
 // console.log(value)
 
-/*
+/* String() => Number()
 "33" => 33
 "33abc" => NaN
 true => NaN

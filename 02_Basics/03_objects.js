@@ -1,8 +1,8 @@
-// singleton means when we create with a constructor a single object is created 
+// singleton means when we create Object with a constructor a single object is created 
 // Object.create()
 
 // object literals
-const mySym = Symbol("key1");
+const mySym = Symbol("key1");// symbol
 const JSUser = {
     name : "Ustaad",
     age : 81,
@@ -13,7 +13,7 @@ const JSUser = {
     "fullName" : "Ustaadoni",
     lastDaysOfLoggedIn : ["Mon","Thurs","Sat"]
 }
-// --> keys are stored as "keys"
+// --> keys are stored as string->"keys"
 console.log(JSUser.lastDaysOfLoggedIn);
 console.log(JSUser['email']);
 console.log(JSUser[mySym])

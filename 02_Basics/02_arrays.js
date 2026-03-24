@@ -17,7 +17,7 @@ const arr = [1,2,[5,6],[[1,2],[3,4]]]
 const flatted = arr.flat(Infinity);
 console.log(flatted);
 
-// ==> Convertin and checkig for arrays from scraped data 
+// ==> Converting and checking for arrays from scraped data 
 console.log(Array.isArray("ab cricinfo"));
 console.log(Array.from("ab cricinfo"));
 // specify for dicts as key or values 
