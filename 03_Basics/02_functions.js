@@ -1,4 +1,4 @@
-// rest operator : ...name
+// rest operator : ...name ---> used for the gathering elements as a iterable 
 
 function vals(...nums){
     return nums;
