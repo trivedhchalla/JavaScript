@@ -15,3 +15,4 @@ for(let indx  = 0; indx < 10 ; indx ++){
  * break ---> the execution comes out for the loop
  * continue ---> skips the part after the and goes from i to i + 1
  */
+``
