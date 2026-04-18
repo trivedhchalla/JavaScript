@@ -8,13 +8,13 @@ console.log(uTube);
 entern = uTube.concat(entern);
 console.log(entern);
 
-// ... => this is called as spread operator used to merge arrays into one 
+// '...' => this is called as spread operator used to merge arrays into one 
 const allChannel = [...uTube,...entern];
 
 // flat() nd -> kd 
 const arr = [1,2,[5,6],[[1,2],[3,4]]]
 
-const flatted = arr.flat(Infinity);
+const flatted = arr.flat(Infinity);// pass k here 
 console.log(flatted);
 
 // ==> Converting and checking for arrays from scraped data 

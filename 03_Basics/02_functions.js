@@ -4,13 +4,13 @@ function vals(...nums){
     return nums;
 }
 
-// console.log(vals(120,232,23,1,212,1));// this prints only one element i.e 120
+console.log(vals(120,232,23,1,212,1));// this prints only one element i.e 120
 
 function addToCart(val1,val2,...vals){
     return vals;
 }
 
-// console.log(addToCart(100,23,69,23))
+console.log(addToCart(100,23,69,23))
 
 const obj = {
     Username : "Name",

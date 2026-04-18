@@ -1,4 +1,4 @@
-// singleton means when we create Object with a constructor a single object is created 
+// singleton means when we create Object with a constructor a single object is created same as design pattern Singleton 
 // Object.create()
 
 // object literals
